@@ -9,11 +9,11 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: black;
+  background-image: url(Untitled-design-13.png);
 }
 h2 {
   text-align: center;
-  color: orange;
+  color: white;
   font-size: 30px;
 }
 #cat{
@@ -27,8 +27,17 @@ h2 {
 }
 .recplayer {
   text-align: left;
-  color: orange;
+  color: white;
   font-size: 13px;
+}
+.logoimage {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: inherit;
+  margin-right: auto;
+  margin: auto;
+  display: block;
 }
 
 .container {
