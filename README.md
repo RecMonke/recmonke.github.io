@@ -1,1 +1,1 @@
-landing page for all my sites
+# if yu see this thanks for visiting my site
